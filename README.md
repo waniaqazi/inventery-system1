@@ -15,5 +15,6 @@ Login**:
    - Enter `admin` for full access or `customer` for limited access.
 3. **Menu Options**:
    - Depending on your role, follow the prompts to add, update, view, or buy products.
-  ####end
+   -
+   **end**
   I write this code by understanding the concepts of python language may be this is not so good for you but according to me its brilliant i love doing this thank u.
